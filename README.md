@@ -1,7 +1,3 @@
-Here’s a README template to announce that you are exploring machine learning and data science:
-
----
-
 # Exploring Machine Learning and Data Science
 
 ## Introduction
